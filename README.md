@@ -1,0 +1,1 @@
+A simple Python script to hash passwords securely using Passlib. Supports Argon2 and bcrypt algorithms, allowing users to input passwords and receive strong, hashed outputs suitable for safe storage and authentication systems.
